@@ -1,6 +1,0 @@
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\bin\Debug\ConcessionLib.dll
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\bin\Debug\ConcessionLib.pdb
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\obj\Debug\ConcessionLib.csproj.AssemblyReference.cache
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\obj\Debug\ConcessionLib.csproj.CoreCompileInputs.cache
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\obj\Debug\ConcessionLib.dll
-C:\Users\nishithag\source\repos\ConcessionLib\ConcessionLib\obj\Debug\ConcessionLib.pdb
