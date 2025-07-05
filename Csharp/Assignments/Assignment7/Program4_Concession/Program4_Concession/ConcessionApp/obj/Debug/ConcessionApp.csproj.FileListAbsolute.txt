@@ -1,0 +1,10 @@
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\obj\Debug\ConcessionApp.csproj.AssemblyReference.cache
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\obj\Debug\ConcessionApp.csproj.CoreCompileInputs.cache
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\bin\Debug\ConcessionApp.exe.config
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\bin\Debug\ConcessionApp.exe
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\bin\Debug\ConcessionApp.pdb
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\bin\Debug\ConcessionLib.dll
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\bin\Debug\ConcessionLib.pdb
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\obj\Debug\ConcessionApp.csproj.CopyComplete
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\obj\Debug\ConcessionApp.exe
+C:\Users\nishithag\source\repos\ConcessionLib\ConcessionApp\obj\Debug\ConcessionApp.pdb
